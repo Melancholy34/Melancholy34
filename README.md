@@ -9,6 +9,8 @@
 <p align="center">
   <img width="800" alt="Untitled__29 7_x_21_cm_-removebg-preview" src="https://github.com/user-attachments/assets/0e323b09-17a8-4ffe-816e-3eee6a9f9120" />
 </p>
+# <p align="center">$$ \color{#A24857}{ \text{ \Huge "Ｉ ｔｈｉｎｋ Ｗｉｌｆ ｐａｓｓｅｄ ｍｅ ｔｈｅ ｂａｌｌ. Ｓｈｏｔ. Ｓｃｏｒｅｄ." }} $$</p>
+
 
 
 
