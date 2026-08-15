@@ -15,20 +15,4 @@
 </p>
  <p align="center">$$ \color{#A24857}{ \text{ \Huge "Ｉ ｔｈｉｎｋ Ｗｉｌｆ ｐａｓｓｅｄ ｍｅ ｔｈｅ ｂａｌｌ. Ｓｈｏｔ. Ｓｃｏｒｅｄ." }} $$</p>
  
- <p align="left">
-<a style="color: #A24857; font-weight: bold; font-size: 18px;">
-    ♡ STRAW ⤵︎ ♡
-   <p align="left">
-  <a href="https://brntfries.straw.page/" font-weight: bold; font-size: 18px;">
-    ♡ (ㆆ_ㆆ) ♡
-  </a>
-</p>
-<p align="right">
-<a style="color: #A24857; font-weight: bold; font-size: 18px;">
-    ♡ ATA ⤵︎ ♡
-   <p align="right">
-  <a href="https://brntfries.atabook.org/"  font-weight: bold; font-size: 18px;">
-    ♡ ₍^. .^₎⟆ ♡
-  </a>
-</p>
-
+[♡ (ㆆ_ㆆ) ♡]([link](https://brntfries.straw.page/))  ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎[♡ ₍^. .^₎⟆ ♡]([link](https://brntfries.atabook.org/))
