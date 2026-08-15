@@ -16,25 +16,25 @@
  <p align="center">$$ \color{#A24857}{ \text{ \Huge "Ｉ ｔｈｉｎｋ Ｗｉｌｆ ｐａｓｓｅｄ ｍｅ ｔｈｅ ｂａｌｌ. Ｓｈｏｔ. Ｓｃｏｒｅｄ." }} $$</p>
 
 
- <div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: left;">
-  <!-- STRAW Section (Left) -->
-  </p><p align="left">
-  <div>
-    <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
-      ♡ STRAW ⤵︎ ♡
-    </span>
-    <a href="https://brntfries.straw.page/" style="color: #A24857; font-weight: bold; font-size: 18px; text-decoration: none; display: block;">
-      ♡ (ㆆ_ㆆ) ♡
-    </a>
-  </div>
-  </p><p align="right">
-  <!-- ATA Section (Right) -->
-  <div style="text-align: right;">
-    <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
-      ♡ ATA ⤵︎ ♡
-    </span>
-    <a href="https://brntfries.atabook.org/" style="color: #A24857; font-weight: bold; font-size: 18px; text-decoration: none; display: block;">
-      ♡ ₍^. .^₎⟆ ♡
-    </a>
-  </div>
+ To keep STRAW on the left and ATA on the right as separate blocks (one above the other), use text-align on parent div containers:
+
+HTML
+<!-- STRAW Section (Aligned Left) -->
+<div style="text-align: left; margin-bottom: 15px;">
+  <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
+    ♡ STRAW ⤵︎ ♡
+  </span>
+  <a href="https://brntfries.straw.page/" style="color: #A24857; font-weight: bold; font-size: 18px; text-decoration: none;">
+    ♡ (ㆆ_ㆆ) ♡
+  </a>
+</div>
+
+<!-- ATA Section (Aligned Right) -->
+<div style="text-align: right;">
+  <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
+    ♡ ATA ⤵︎ ♡
+  </span>
+  <a href="https://brntfries.atabook.org/" style="color: #A24857; font-weight: bold; font-size: 18px; text-decoration: none;">
+    ♡ ₍^. .^₎⟆ ♡
+  </a>
 </div>
