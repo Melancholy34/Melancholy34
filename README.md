@@ -1,3 +1,4 @@
 ## 𝓜𝓮𝓵𝓪𝓷𝓬𝓱𝓸𝓵𝔂
-<img width="420" height="594" alt="Untitled_design-removebg-preview" src="https://github.com/user-attachments/assets/d72c859b-0e51-48bf-aaff-93e7da377333" />
+<img width="805" height="970" alt="Untitled design (4)" src="https://github.com/user-attachments/assets/0d9a2a28-57fe-4a34-aeea-33f7232093ad" />
+
 
