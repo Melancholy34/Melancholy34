@@ -1,4 +1,4 @@
-# <span style="color: red;"𝕸𝖊𝖑𝖆𝖓𝖈𝖍𝖔𝖑𝖞</span>  
+# <p align="center">$$ \color{#A24857}{  \text{ 𝕸𝖊𝖑𝖆𝖓𝖈𝖍𝖔𝖑𝖞 }} $$
 <p align="center">
  <img width="1200" alt="9bfdbdc727cd3b5d38794003dc565c59-removebg-preview" src="https://github.com/user-attachments/assets/95dce64c-9c61-41f2-a4f7-4f2758b795e1" />
 </p> 
