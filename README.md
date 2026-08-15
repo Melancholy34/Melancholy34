@@ -5,7 +5,6 @@
 <p align="center">
   <img width="600" alt="Untitled_design-removebg-preview (1)" src="https://github.com/user-attachments/assets/fe27d66e-91ec-4eb3-a65d-00dcba9d4044"/>
 </p>
-<img width="800" alt="Untitled__29 7_x_21_cm_-removebg-preview" src="https://github.com/user-attachments/assets/0e323b09-17a8-4ffe-816e-3eee6a9f9120" />
 <p align="center">
 <img width="50" alt="ac774954ef6a6201c0982180f4fd4be3-removebg-preview" src="https://github.com/user-attachments/assets/e204e00a-cc91-45b2-9390-3a3e978f1f4d" />
 </p>
