@@ -15,10 +15,6 @@
 </p>
  <p align="center">$$ \color{#A24857}{ \text{ \Huge "Ｉ ｔｈｉｎｋ Ｗｉｌｆ ｐａｓｓｅｄ ｍｅ ｔｈｅ ｂａｌｌ. Ｓｈｏｔ. Ｓｃｏｒｅｄ." }} $$</p>
 
-
- To keep STRAW on the left and ATA on the right as separate blocks (one above the other), use text-align on parent div containers:
-
-HTML
 <!-- STRAW Section (Aligned Left) -->
 <div style="text-align: left; margin-bottom: 15px;">
   <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
@@ -38,3 +34,4 @@ HTML
     ♡ ₍^. .^₎⟆ ♡
   </a>
 </div>
+ 
