@@ -22,15 +22,14 @@
     ♡ (ㆆ_ㆆ) ♡
   </a>
 </p>
- <p align="right">
- <a style="color: #A24857; font-weight: bold; font-size: 18px;">
-    ♡ ATA ⤵︎ ♡ 
-  <p align="right">
-    <a href=" https://brntfries.atabook.org/" style="color: #A24857; font-weight: bold; font-size: 18px;">
-    ♡ ₍^. .^₎⟆ ♡
-     </a>
-</p>
 
+ <a style="color: #A24857; font-weight: bold; font-size: 18px;">
+    ♡ ATA ⤵︎ ♡
+   <p align="right">
+  <a href="https://brntfries.atabook.org/" style="color: #A24857; font-weight: bold; font-size: 18px;">
+    ♡ ₍^. .^₎⟆ ♡
+  </a>
+</p>
 
 
 
