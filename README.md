@@ -6,8 +6,7 @@
   <img width="600" alt="Untitled_design-removebg-preview (1)" src="https://github.com/user-attachments/assets/fe27d66e-91ec-4eb3-a65d-00dcba9d4044"/>
 </p>
 <p align="center">
-  <img width="800" alt="Untitled__29 7_x_21_cm_-removebg-preview" src="https://github.com/user-attachments/assets/be7dfa14-0207-410e-8a48-047367a4767a" />
-</p>
+<img width="1194" height="131" alt="c7acc46108ac504ddcad445f1caba722" src="https://github.com/user-attachments/assets/cc3d7940-fe23-4e53-b1e2-f4ab6123a48c" />
 <p align="center">
   <img width="800" alt="Untitled__29 7_x_21_cm_-removebg-preview" src="https://github.com/user-attachments/assets/0e323b09-17a8-4ffe-816e-3eee6a9f9120" />
 </p>
