@@ -17,6 +17,8 @@
 
  <a style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ STRAW ⤵︎ ♡
+
+  
    <p align="left">
   <a href="https://brntfries.straw.page/" style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ (ㆆ_ㆆ) ♡
