@@ -14,7 +14,8 @@
 <img width="50" alt="ac774954ef6a6201c0982180f4fd4be3-removebg-preview" src="https://github.com/user-attachments/assets/e204e00a-cc91-45b2-9390-3a3e978f1f4d" />
 </p>
  <p align="center">$$ \color{#A24857}{ \text{ \Huge "Ｉ ｔｈｉｎｋ Ｗｉｌｆ ｐａｓｓｅｄ ｍｅ ｔｈｅ ｂａｌｌ. Ｓｈｏｔ. Ｓｃｏｒｅｄ." }} $$</p>
-
+ 
+ <p align="left">
 <a style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ STRAW ⤵︎ ♡
    <p align="left">
@@ -22,7 +23,7 @@
     ♡ (ㆆ_ㆆ) ♡
   </a>
 </p>
-
+<p align="right">
 <a style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ ATA ⤵︎ ♡
    <p align="right">
