@@ -18,6 +18,7 @@
 
  <div style="display: flex; justify-content: space-between; align-items: flex-start; text-align: left;">
   <!-- STRAW Section (Left) -->
+  </p><p align="left">
   <div>
     <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
       ♡ STRAW ⤵︎ ♡
@@ -26,7 +27,7 @@
       ♡ (ㆆ_ㆆ) ♡
     </a>
   </div>
-
+  </p><p align="right">
   <!-- ATA Section (Right) -->
   <div style="text-align: right;">
     <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
