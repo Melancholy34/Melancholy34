@@ -15,23 +15,18 @@
 </p>
  <p align="center">$$ \color{#A24857}{ \text{ \Huge "Ｉ ｔｈｉｎｋ Ｗｉｌｆ ｐａｓｓｅｄ ｍｅ ｔｈｅ ｂａｌｌ. Ｓｈｏｔ. Ｓｃｏｒｅｄ." }} $$</p>
 
-<!-- STRAW Section (Aligned Left) -->
-<div style="text-align: left; margin-bottom: 15px;">
-  <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
+<a style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ STRAW ⤵︎ ♡
-  </span>
-  <a href="https://brntfries.straw.page/" style="color: #A24857; font-weight: bold; font-size: 18px; text-decoration: none;">
+   <p align="left">
+  <a href="https://brntfries.straw.page/" style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ (ㆆ_ㆆ) ♡
   </a>
-</div>
-
-<!-- ATA Section (Aligned Right) -->
-<div style="text-align: right;">
-  <span style="color: #A24857; font-weight: bold; font-size: 18px; display: block;">
+</p>
+ <p align="right">
+ <a style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ ATA ⤵︎ ♡
-  </span>
-  <a href="https://brntfries.atabook.org/" style="color: #A24857; font-weight: bold; font-size: 18px; text-decoration: none;">
+   <p align="right">
+  <a href="https://brntfries.atabook.org/" style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ ₍^. .^₎⟆ ♡
   </a>
-</div>
- 
+</p>
