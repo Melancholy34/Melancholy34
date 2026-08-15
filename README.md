@@ -15,6 +15,11 @@
 </p>
  <p align="center">$$ \color{#A24857}{ \text{ \Huge "Ｉ ｔｈｉｎｋ Ｗｉｌｆ ｐａｓｓｅｄ ｍｅ ｔｈｅ ｂａｌｌ. Ｓｈｏｔ. Ｓｃｏｒｅｄ." }} $$</p>
 
+ <a href="https://brntfries.straw.page/" style="color: #A24857; font-weight: bold; font-size: 18px;">
+    ♡ STRAW ⤵︎ ♡
+  </a>
+</p>
+
   <a href="https://brntfries.straw.page/" style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ (ㆆ_ㆆ) ♡
   </a>
