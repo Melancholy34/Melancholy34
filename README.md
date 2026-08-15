@@ -18,7 +18,6 @@
 
  <a style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ STRAW ⤵︎ ♡
-  
    <p align="left">
   <a href="https://brntfries.straw.page/" style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ (ㆆ_ㆆ) ♡
@@ -28,7 +27,6 @@
    <p align="right">
  <a style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ ATA ⤵︎ ♡
-  
    <p align="right">
   <a href="https://brntfries.atabook.org/" style="color: #A24857; font-weight: bold; font-size: 18px;">
     ♡ ₍^. .^₎⟆ ♡
